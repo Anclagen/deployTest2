@@ -1,1 +1,2 @@
-/                  /public
+# Redirects from what the browser requests to what we serve
+/              /index-location
